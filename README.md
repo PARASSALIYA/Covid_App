@@ -1,16 +1,20 @@
-# covid_19
+# covid_19 App
 
-A new Flutter project.
+###### A Flutter application that provides users with up-to-date information about Covid-19 cases in various cities. Users can view all cities on the homepage, get detailed information about a selected city on the detail page, and bookmark cities for quick access. The app is built using the Flutter framework, implements the MVC pattern with Provider architecture, and utilizes shared_preferences for persistent local storage.
 
-## Getting Started
+## Features
+- Homepage: Displays a list of all cities with key Covid-19 statistics.
+- Detail Page: Provides detailed Covid-19 data for a specific city.
+- City Bookmark: Allows users to bookmark cities for quick access.
+- Persistent Storage: Bookmarked cities are stored locally using shared_preferences.
 
-This project is a starting point for a Flutter application.
+OUTPUT : 
 
-A few resources to get you started if this is your first Flutter project:
+<img src = "https://github.com/user-attachments/assets/9ca8c55b-ebbe-4d5d-bb78-e079220bad50" width="200">
+<img src = "https://github.com/user-attachments/assets/31213cb0-e758-4c79-a30b-ab794f200c44" width="200">
+<img src = "https://github.com/user-attachments/assets/12d9750a-ab03-4b46-8ed3-847bc5798de9" width="200">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
